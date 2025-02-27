@@ -48,10 +48,6 @@ yarn build
 ```
 The build files will be available in the `dist/` directory.
 
-## Video Demonstration
-Watch the working demo of the project here:
-[Project Demo Video](<Your-Video-Link>)
-
 ## Technologies Used
 - **React** (Frontend UI)
 - **Vite** (Fast build tool for modern web apps)
