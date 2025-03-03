@@ -2,7 +2,6 @@ import React from "react";
 import logo from "../assets/sheets.png";
 import star from "../assets/star.png";
 import padlock from "../assets/padlock.png";
-import Toolbar from "./Toolbar";
 
 function Header() {
   return (
@@ -52,10 +51,6 @@ function Header() {
             <span className="font-medium">Share</span>
           </button>
         </div>
-      </div>
-
-      <div className="w-full">
-        <Toolbar />
       </div>
     </header>
   );
